@@ -1,0 +1,28 @@
+{
+  "name": "christianessl/mandelbrot-php",
+  "type": "library",
+  "description": "Simple mandelbrot algorithm in PHP.",
+  "keywords": [
+    "mandelbrot"
+  ],
+  "license": ["GPL-2.0-or-later"],
+  "homepage": "https://christianessl.at",
+  "authors": [
+    {
+      "name": "Christian Essl",
+      "role": "Developer"
+    }
+  ],
+  "version": "1.0.0",
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "ChristianEssl\\Mandelbrot\\": "Classes"
+    }
+  },
+  "replace": {
+
+  }
+}
